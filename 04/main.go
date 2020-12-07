@@ -1,4 +1,3 @@
-//182, 109
 package main
 
 import (
